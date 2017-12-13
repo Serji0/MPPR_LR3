@@ -1,1 +1,1 @@
-# MPPR_LR3
+# handwriting-recognition
